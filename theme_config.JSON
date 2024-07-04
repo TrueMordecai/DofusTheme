@@ -3,11 +3,11 @@
     "author" : "Mrdc",
     "name" : "Theme",
     "keyWords" : "test",
-    "version" : "1.0.0",
-    "dofusVersion" : "2.XX",
+    "version": "2.73.1",
+    "dofusVersion": "2.73"
     "description" : "Juste un simple test",
     "url" : "https://github.com/TrueMordecai/DofusTheme/raw/main/whiteStone.zip",
-    "previewUrl" : "https://picsum.photos/seed/picsum/1920/1080",
+    "previewUrl" : "",
     "creationDate" : "03/07/2024",
     "modificationDate" : "03/07/2024"
     }
