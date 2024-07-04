@@ -1,0 +1,11 @@
+<theme>
+    <name>monMagnifikTheme</name>
+    <skinType>1</skinType>
+    <description>Description du thème</description>
+    <previewUri>xeu.jpg</previewUri>
+    <author>PseudoDeAuteur</author>
+    <version>1.0.0</version>
+    <dofusVersion>2.72</dofusVersion> 
+    <creationDate>04/07/2024</creationDate> 
+    <modificationDate>04/07/2024</modificationDate> 
+</theme>
